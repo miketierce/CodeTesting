@@ -132,7 +132,7 @@ namespace ConsoleApplication4
             Console.WriteLine("|    Which Game?        |");
             Console.WriteLine("|                       |");
             Console.WriteLine("| A: Tic Tac Toe        |");
-            Console.WriteLine("| B: Rummy              |");
+            Console.WriteLine("| B: Snake              |");
             Console.WriteLine("| C: War                |");
             Console.WriteLine("| D: Quit               |");
             Console.WriteLine("*************************");
